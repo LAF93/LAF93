@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**LAF93/LAF93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Atualmente estou trabalhando como tecnico em fibra optica.
+- 🌱 Atualmente estou estudando e aprendedo Desenvolvimento Web (Node.js Backend, HTML5, CSS, SQL, React.js e React Native).
+- 👯 Estou Procurando colaborar em desenvovimentos de web sites e sistemas.
+- 📫 Como Chegar Até mim:
+Linkedin: LUCAS FAGUNDES
+WhatsApp: 11940251477
+EMail: lucas.afagundes11@gmail.com.
+- ⚡ Curiosidade: Apaixonado por tecnologia, procurando sempre solucionar problemas por conta propria. Sempre procurando coisas novas para aprender e se desenvolver e se atualiazar sobre os assuntos do mundo tecnologicos.
